@@ -39,8 +39,6 @@ A visually engaging and fully responsive clone of the Netflix landing page, craf
 
 ---
 
-### 🌍 Live Demo  
-🔗 [View Live Site](https://stirring-biscotti-378375.netlify.app/)
 
 ---
 
