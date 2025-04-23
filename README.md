@@ -27,7 +27,7 @@ JavaScript – FAQ toggle functionality
 
 
 🌍 Live Demo
-🔗 View Live Site (Replace with your GitHub Pages or Netlify link)
+🔗 View Live Site (https://stirring-biscotti-378375.netlify.app/)
 
 🙌 Credits
 Designed and developed by Eyob
