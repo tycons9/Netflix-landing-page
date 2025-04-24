@@ -2,7 +2,7 @@
 
 ## 🎬 Netflix Landing Page Clone
 
-A visually engaging and fully responsive clone of the Netflix landing page, crafted with **HTML5**, **CSS3**, and **JavaScript**. This project replicates the aesthetic and structure of the official Netflix homepage, incorporating modern UI/UX design principles to deliver an immersive user experience. It features a dynamic hero section, trending content grid, service highlights, interactive FAQ, and a structured footer.
+A visually engaging and fully responsivee clone of the Netflix landing page, crafted with **HTML5**, **CSS3**, and **JavaScript**. This project replicates the aesthetic and structure of the official Netflix homepage, incorporating modern UI/UX design principles to deliver an immersive user experience. It features a dynamic hero section, trending content grid, service highlights, interactive FAQ, and a structured footer.
 
 ---
 
